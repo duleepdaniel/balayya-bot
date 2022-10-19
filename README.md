@@ -1,5 +1,5 @@
 # Balayya Bot
-This is Fun, Non-Harmful Bot that drops Balayya Famous Slogans on the Keyword 'balayya' in selective Telugu Subreddits
+This is Fun, Non-Harmful Reddit Bot that drops Balayya Famous Slogans on the Keyword 'balayya' in selective Telugu Subreddits
 
 Create your Bot Here:
 https://www.reddit.com/prefs/apps/
